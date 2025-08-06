@@ -1,0 +1,1 @@
+# lossless-try-to-become-less-in-size-than-avif
