@@ -11,3 +11,10 @@ Most likely high quality image lossless over less size than avif
 
 After the dat compressed
 
+Sample (1).avif 446Kb
+Sample (1).bmp 2152 Kb
+•	Sample (1).bmp.dat.lea 336Kb (better than Flif)
+•	Sample (1).bmp.dat.nz 460 Kb (better than flif)
+Sample (1).bmp.dat.png 807 Kb
+Sample (1).bmp.dat.png.flif 476 KB
+
