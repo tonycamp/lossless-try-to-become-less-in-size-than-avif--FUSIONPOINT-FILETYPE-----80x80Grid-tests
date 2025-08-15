@@ -1,2 +1,16 @@
-compressor and decompressor made but its not totaly lossless i mean misses like in a 2Mb file some 100 bytes diferent .. in those png original to rebuilded
-some tweaks to be made ... help accepted , but i guess its the rgb yuv conversion and yuv to rgb again , its very similar to lossless but for perfect , i should use another type of yuv to rgb and vice versa-  more detailed than this one, but for now goes...
+on the finals.7z there is 
+
+bmp2fusionpoint-li
+bmp2fusionpoint-80
+bmp2fusionpoint-litga (ultra compression)
+
+and the reverse coders
+fusionpoint2png-li
+fusionpoint2png-80
+fusionpoint2png-litga
+
+there are not just the windows cli exes but also the code blitz basic max ng 136 files
+
+besides 9 samples of bmp are there
+
+feel free to try
